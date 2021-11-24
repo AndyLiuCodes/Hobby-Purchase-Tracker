@@ -1,0 +1,12 @@
+{ 
+    "manifest_version": 1, 
+    "name": "Hobby Purchase Tracker", 
+    "description": "Track and export your intended hobby purchases into a convenient Excel spreadsheet", 
+    "version": "1", 
+    "author": "Andy Liu",
+    "permissions": ["contextMenus"],
+    "browser_action": {    
+    },
+    "chrome_url_overrides" : {  
+    }
+}
